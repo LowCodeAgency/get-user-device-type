@@ -1,0 +1,13 @@
+[
+  {
+    "kind": "column",
+    "name": "IsDesktop",
+    "description": "Desktop (true) or mobile (false)",
+    "author": "https://abdessalam.dev/",
+    "params": [
+    ],
+    "result": {
+      "type": "primitive"
+    }
+  }
+]
