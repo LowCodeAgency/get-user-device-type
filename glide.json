@@ -1,8 +1,8 @@
 [
   {
     "kind": "column",
-    "name": "IsDesktop",
-    "description": "Desktop (true) or mobile (false)",
+    "name": "Device type",
+    "description": "Return user's device type",
     "author": "https://abdessalam.dev/",
     "params": [
     ],
