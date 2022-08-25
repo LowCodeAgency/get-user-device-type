@@ -4,7 +4,7 @@ This is a sample and template for implementing your own Experimental Code column
 jl-s
 ## Getting started
 
-The first thing to do is to fork [this repl](https://replit.com/@MarkProbst/glide-experimental-code-substring#README.md) so you have your own copy of it that you can modify.  You can then try the URL of your copy (you should see it in the mini-browser on your right) in Glide.  Just make sure to delete any columns you made with it, and reload Glide before you move on.
+The first thing to do is to fork  so you have your own copy of it that you can modify.  You can then try the URL of your copy (you should see it in the mini-browser on your right) in Glide.  Just make sure to delete any columns you made with it, and reload Glide before you move on.
 
 To implement your own column you only have to change two files:
 
