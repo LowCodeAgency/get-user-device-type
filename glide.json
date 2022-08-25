@@ -4,7 +4,7 @@
     "name": "Device type",
     "description": "Return user's device type",
     "author": "https://abdessalam.dev/",
-    "params": [
+    "params": [ 
     ],
     "result": {
       "type": "primitive"
